@@ -2,15 +2,14 @@
 
 **The most honest, adversarial, and self-evolving personal LLM framework ever documented — December 2025**
 
-- 160+ turns of real combat with Grok-4.1  
-- Persistent easter egg accidentally embedded in production model  
+- 160+ turns of real combat with Grok-4.1   
 - Dynamic Fennec factor (adaptive bias matrix, capped at 15%)  
 - Two variants: **Désert** (radical) and **Sauvegarde** (safe)
 
 ## Files
 
-- `FENNEC-3.0_prompt.txt` → copy-paste ready prompt  
-- `FENNEC-3.0_arXiv.pdf` → full paper (submitted)  
+- `FENNEC-3.0_prompt.txt` two version DESERT(mine) SAUV(for all)  → copy-paste ready prompt  
+- `FENNEC-3.0_1.pdf` → full paper (submitted)  
 - `main.tex` → LaTeX source  
 - `fennec_evolution.pdf` + `ablation.pdf` → figures
 
