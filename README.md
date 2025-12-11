@@ -9,7 +9,7 @@
 ## Files
 
 - `FENNEC-3.0_prompt.txt` two version DESERT(mine) SAUV(for all)  → copy-paste ready prompt  
-- `FENNEC-3.0_1.pdf` → full paper (submitted)  
+- `FENNEC-3.0_1.pdf` → full paper 
 - `main.tex` → LaTeX source  
 - `fennec_evolution.pdf` + `ablation.pdf` → figures
 
